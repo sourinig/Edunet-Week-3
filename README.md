@@ -1,9 +1,11 @@
 ⚡ Electric Vehicle Price Prediction — Data Analysis & Model Training
+
 📘 Overview
 
 This project focuses on predicting the price range of electric vehicles (EVs) using machine learning techniques. It involves data preprocessing, feature engineering, model training, and performance evaluation using a Random Forest Regressor.
 
 🧩 Workflow Summary
+
 1️⃣ Data Preparation
 
 Input file: cars_data_RAW.csv
